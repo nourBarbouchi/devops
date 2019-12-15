@@ -1,0 +1,10 @@
+[2019-11-29 01:49:22.204] [exthost] [info] extension host started
+[2019-11-29 01:49:22.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-29 01:49:22.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/21/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-29 01:49:22.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-29 01:49:22.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/21/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-29 01:49:22.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-29 01:49:22.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/21/usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-29 01:49:22.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-29 01:49:22.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/21/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-29 01:49:22.296] [exthost] [info] eager extensions activated
